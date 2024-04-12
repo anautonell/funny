@@ -1,4 +1,4 @@
-# Awesome School Exploits [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Enjoy Life [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __Pull Requests/Contributions are more than welcome, and we would love all the help we could get from those.__
 When submitting an exploit, make sure to follow the [contribution guidelines](#contribution-guidelines)
 - [Filter Bypasses](#filter-bypasses)
